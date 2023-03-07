@@ -16,6 +16,9 @@
 
             // Terceira alteração da master
             Console.WriteLine("Terceira Alteração - master");
+
+            // Quarta alteração da master
+            Console.WriteLine("Quarta Alteração - master");
         }
     }
 }
