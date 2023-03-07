@@ -9,6 +9,10 @@
 
             // Segunda alteração da master
             Console.WriteLine("Segunda Alteração - master");
+
+            // Segunda implementação do fonte
+            // 1ª Alteração do branch correção
+            Console.WriteLine("Alteração do branch correção.");
         }
     }
 }
