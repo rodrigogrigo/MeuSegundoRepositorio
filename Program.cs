@@ -13,6 +13,9 @@
             // Segunda implementação do fonte
             // 1ª Alteração do branch correção
             Console.WriteLine("Alteração do branch correção.");
+
+            // Terceira alteração da master
+            Console.WriteLine("Terceira Alteração - master");
         }
     }
 }
