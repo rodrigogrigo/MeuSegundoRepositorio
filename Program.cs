@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            // Primeira alteração feita no master
-            Console.WriteLine("Primeira Alteração - master");
+            // Aqui foi feita uma correção.
+            Console.WriteLine("Corrigi essa linha");
 
             // Segunda alteração da master
             Console.WriteLine("Segunda Alteração - master");
